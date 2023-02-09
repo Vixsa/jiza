@@ -1,0 +1,15 @@
+D:\Documents\Desktop\govno\govno2\bin\Debug\net6.0\govno2.exe
+D:\Documents\Desktop\govno\govno2\bin\Debug\net6.0\govno2.deps.json
+D:\Documents\Desktop\govno\govno2\bin\Debug\net6.0\govno2.runtimeconfig.json
+D:\Documents\Desktop\govno\govno2\bin\Debug\net6.0\govno2.dll
+D:\Documents\Desktop\govno\govno2\bin\Debug\net6.0\govno2.pdb
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\govno2.csproj.AssemblyReference.cache
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\govno2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\govno2.AssemblyInfoInputs.cache
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\govno2.AssemblyInfo.cs
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\govno2.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\govno2.dll
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\refint\govno2.dll
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\govno2.pdb
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\govno2.genruntimeconfig.cache
+D:\Documents\Desktop\govno\govno2\obj\Debug\net6.0\ref\govno2.dll
